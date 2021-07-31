@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
 import re
 import gspread
-from datetime import datetime,date
 from oauth2client.service_account import ServiceAccountCredentials
 
 
